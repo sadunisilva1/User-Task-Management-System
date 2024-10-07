@@ -10,6 +10,12 @@ In the directory /User-Task-Management-System/frontend, you can run:
 
 Install the dependencies
 
+### Create .env file
+Create .env file at /User-Task-Management-System/frontend directory
+
+Add the following environment variable to the .env file
+REACT_APP_API_URL=http://localhost:3005/api
+
 ### `npm start`
 
 Runs the app in the development mode.\
